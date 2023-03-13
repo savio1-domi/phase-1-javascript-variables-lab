@@ -5,9 +5,9 @@
     "passes": 6,
     "pending": 0,
     "failures": 0,
-    "start": "2022-11-24T14:39:22.960Z",
-    "end": "2022-11-24T14:39:23.406Z",
-    "duration": 446
+    "start": "2023-03-13T11:15:38.234Z",
+    "end": "2023-03-13T11:15:39.085Z",
+    "duration": 851
   },
   "tests": [
     {
@@ -20,7 +20,7 @@
     {
       "title": "is defined as a const",
       "fullTitle": "index.js companyName is defined as a const",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
@@ -66,7 +66,7 @@
     {
       "title": "is defined as a const",
       "fullTitle": "index.js companyName is defined as a const",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
